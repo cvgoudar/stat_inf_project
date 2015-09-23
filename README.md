@@ -12,10 +12,11 @@ rpop_sd   <- sd(rexp_pop)
 hist(rexp_pop)
 ```
 
-# Sampling
-# Extract 40 samples from the population mean
+
 
 ```{r}
+# Sampling
+# Extract 40 samples from the population mean
 samp_mean <- NULL
 samp_sd   <- NULL
 for (i in 1:1000)
