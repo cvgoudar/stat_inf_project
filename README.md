@@ -1,6 +1,6 @@
-# Central Limit Theorem : Experimentation with Exponential distribution
+## Central Limit Theorem : Experimentation with Exponential distribution
 
-## Overview
+### Overview
    In this exercise the central limit theorem is demonstrated with samples from exponential distribution
 ## Simulations: Include English explanations of the simulations you ran, with the accompanying R code. Your explanations should make clear what the R code accomplishes.
 ## Sample Mean versus Theoretical Mean: Include figures with titles. In the figures, highlight the means you are comparing. Include text that explains the figures and what is shown on them, and provides appropriate numbers.
