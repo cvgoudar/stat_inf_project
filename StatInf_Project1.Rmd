@@ -12,6 +12,9 @@ rpop_sd   <- sd(rexp_pop)
 hist(rexp_pop)
 ```
 
+Displaying the distribution of the population
+```{r}
+hist(rexp_pop)
 
 
 ```{r}
